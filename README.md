@@ -1,0 +1,7 @@
+A one-line software patch note for a bug in human biology: `v5.2.0: fixed a bug where another user's yawn forced a local yawn. Rollout complete; adoption remains contagious.` The joke is the deadpan changelog frame applied to contagious yawning — the fix "shipped," the rollout is complete, and yet the "bug" is still visibly spreading from person to person, so the last clause quietly reclassifies the defect as an adopted feature. At 113 ASCII characters it stays well inside the 160-character gate, and `main.ts` (TypeScript, Node 22+, zero dependencies) writes exactly that line plus one trailing newline to `entry.txt` in `MAKEFUN_OUTPUT_DIR` (or `/output`), asserting the character count, byte count, non-emptiness, absence of embedded newlines, a single trailing newline, and an exact byte-for-byte read-back before it exits.
+
+[![make.fun](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+[![rank](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/0xcqing/patch-notes-yawn/rank.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/leaderboard)
+[![reward](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/0xcqing/patch-notes-yawn/reward.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+
+Bounty: https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d
